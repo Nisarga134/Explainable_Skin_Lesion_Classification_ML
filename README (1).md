@@ -12,8 +12,8 @@
 
 | Field | Details |
 |---|---|
-| **Student** | Nisarga B M |
-| **Programme** | M.Sc. Software Engineering |
+| **Student** | Nisarga Bhaktharahalli Muniraju |
+| **Programme** | M.Sc. Data Science |
 | **University** | University of Europe for Applied Sciences |
 | **Supervisor** | Raja Hashim Ali |
 | **Date** | June 2026 |
