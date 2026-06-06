@@ -7,8 +7,8 @@
 ![Platform](https://img.shields.io/badge/Platform-Kaggle%20Notebook-20BEFF?style=flat&logo=kaggle&logoColor=white)
 Pattern Recognition — Phase 2: Proposal and Code Implementation
 Field	Details
-Student	Nisarga B M
-Programme	M.Sc. Software Engineering
+Student	Nisarga Bhaktharahalli Muniraju
+Programme	M.Sc. Data Science
 University	University of Europe for Applied Sciences
 Supervisor	Raja Hashim Ali
 Date	June 2026
